@@ -1,3 +1,38 @@
-Body{
-    background-color: lightgray;
+
+/*Header*/
+header{
+    padding-top:20px;
+    display:flex;
+    justify-content: center;
+    border-bottom: 2px dashed 
+}
+header>img{
+    height:45px;
+    padding-right:5px;
+}
+header img{
+    display:inline;
+    padding-bottom:15px;
+}
+h1{
+    display:inline;
+    font-family: yellowtail;
+    font-size:2em;
+}
+header div{
+display:inline-block;
+}
+header ul{
+    display:inline;
+    text-align:right;
+}
+header li{
+    display:inline;
+}
+header p{
+    font-size:0.5em;
+    margin-top:0px;
+}
+#one{
+    margin-left:750px;
 }
