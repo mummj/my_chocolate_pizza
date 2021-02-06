@@ -4,7 +4,6 @@ header{
     padding-top:20px;
     display:flex;
     justify-content: center;
-    border-bottom: 2px dashed 
 }
 header>img{
     height:45px;
@@ -35,4 +34,54 @@ header p{
 }
 #one{
     margin-left:750px;
+}
+
+/*main section*/
+
+.seperator-top{
+    background-image:url(./lab-assets/hr-img.png);
+    background-repeat:repeat-x;
+    background-size:4px 14px;
+    padding-top: 2em;
+    margin-top:2em;
+    margin-left:70px;
+    margin-top:0px;
+    margin-right:65px;
+}
+h2{
+    font-size:4em;
+    margin-bottom:0px;
+}
+h3{
+    font-size:1em;
+    margin-top:0px;
+    margin-right:875px;
+    display:inline;
+}
+section div img{
+    display:inline;
+}
+.print{
+    display:inline;
+}
+.pizza-image{
+    margin-left: auto;
+    margin-right:auto;
+    width:100%;
+    padding-top:50px;
+    text-align:right;
+}
+section main p{
+    font-size:1.5em;
+    text-indent:2em;
+    padding:.5em;
+}
+
+/*Ingrediants Section*/
+
+.backgroundimg{
+    margin-left: auto;
+    margin-right:auto;
+    width:100%;
+    
 }
